@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\balak\Desktop\NetDatabaseChat-master\Server\Database.h(81): warning C4715: Database::checkUserByLogin: значение возвращается не при всех путях выполнения
+C:\Users\balak\Desktop\NetDatabaseChat-master\Server\Database.h(108): warning C4715: Database::checkUserByLoginAndPassword: значение возвращается не при всех путях выполнения
+C:\Users\balak\Desktop\NetDatabaseChat-master\Server\Database.h(133): warning C4715: Database::getUserId: значение возвращается не при всех путях выполнения
+C:\Users\balak\Desktop\NetDatabaseChat-master\Server\Database.h(144): warning C4715: Database::getUserLoginById: значение возвращается не при всех путях выполнения
+  Server.vcxproj -> C:\Users\balak\Desktop\NetDatabaseChat-master\x64\Debug\Server.exe
